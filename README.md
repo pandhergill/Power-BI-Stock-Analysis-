@@ -30,37 +30,20 @@ The purpose of this dashboard is to help users analyze stock performance trends,
 * Shows average opening price per quarter
 * Makes it easy to compare quarter-on-quarter performance
 
-5. Detailed Date & Open Price Table
+**5. Detailed Date & Open Price Table**
 
-A scrollable table displays:
+* Date
+* Total / Sum of Open Price
 
-Date
+**6. Interactive Filters (Slicers)**
 
-Total / Sum of Open Price
+* Year (2017, 2018)
+* Quarter (Q1, Q2, Q3, Q4)
+* Stock Name (Amazon, Apple, IBM)
 
-This allows analysts to quickly review raw stock price values alongside summarized visuals.
-A grand total is also included at the bottom.
+**7. Project Purpose**
 
-6. Interactive Filters (Slicers)
-
-The dashboard includes dynamic slicers:
-
-Year (2017, 2018)
-
-Quarter (Q1, Q2, Q3, Q4)
-
-Stock Name (Amazon, Apple, IBM)
-
-These filters allow users to focus on specific time ranges or compare companies side-by-side.
-
-7. Project Purpose
-
-This dashboard provides actionable insights such as:
-
-Which stock showed the highest volatility?
-
-Which quarter performed best in terms of Open/Close prices?
-
-How did stock prices behave month by month or year by year?
-
-Which company had the most stable performance?
+* Which stock showed the highest volatility?
+* Which quarter performed best in terms of Open/Close prices?
+* How did stock prices behave month by month or year by year?
+* Which company had the most stable performance?
