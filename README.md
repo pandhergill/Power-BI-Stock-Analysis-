@@ -26,7 +26,7 @@ The purpose of this dashboard is to help users analyze stock performance trends,
 * Helps identify which quarter performed better
 * Shows seasonal patterns or stock volatility
 
-  **Qtr Wise Avg Open**
+**Qtr Wise Avg Open**
 * Shows average opening price per quarter
 * Makes it easy to compare quarter-on-quarter performance
 
