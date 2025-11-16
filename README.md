@@ -21,12 +21,12 @@ The purpose of this dashboard is to help users analyze stock performance trends,
 
 **4. Quarter-wise Analysis**
 
-  **Qtr Wise Avg Close**
+**a. Qtr Wise Avg Close**
 * Displays average closing price for Q1, Q2, Q3, Q4
 * Helps identify which quarter performed better
 * Shows seasonal patterns or stock volatility
 
-**Qtr Wise Avg Open**
+**b. Qtr Wise Avg Open**
 * Shows average opening price per quarter
 * Makes it easy to compare quarter-on-quarter performance
 
