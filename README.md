@@ -1,24 +1,22 @@
 # Project Title : Stock Performance Analysis Dashboard
 
 **1. Project Overview**
-This project involves the development of an interactive Power BI Dashboard for analyzing historical stock performance.
-The primary goal is to transform raw, time-series stock data into an intuitive visual story, enabling users to quickly grasp key trends, volatility, and trading activity for informed decision-making.
 
-Time Series Analysis:
+This project involves the development of an interactive Power BI Dashboard for analyzing historical stock performance.The primary goal is to transform raw, time-series stock data into an intuitive visual story, enabling users to quickly grasp key trends, volatility, and trading activity for informed decision-making.
+
+**2. Time Series Analysis**
 
 A line chart visualizing the stock's Closing Price over time, allowing users to identify long-term trends, growth patterns, and significant price movements.
 
-Key Performance Indicators (KPIs):
+**3. Key Performance Indicators (KPIs)**
 
-Clear visual metrics (likely in cards) displaying critical figures such as:
+* Current Price (or price at the selected date range).
 
-Current Price (or price at the selected date range).
+* Total Volume of shares traded.
 
-Total Volume of shares traded.
+* Price Change and percentage gain/loss over the selected period.
 
-Price Change and percentage gain/loss over the selected period.
-
-Daily Price Range & Volatility:
+* Daily Price Range & Volatility:
 
 A visualization (likely a bar or candlestick chart) showing the High, Low, Open, and Close prices for each day. This helps in assessing daily volatility and market sentiment.
 
